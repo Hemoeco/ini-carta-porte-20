@@ -20,6 +20,8 @@ namespace BillingDomain.CartaPorte
         public string Remolque1SubTipoRemolque { get; set; }
         public string FederalRemolque2Placa { get; set; }
         public string FederalRemolque2SubTipoRemolque { get; set; }
+        public string PermSCT { get; set; }
+        public string NumPermisoSCT { get; set; }
         public string CreatedBy { get; set; }
         public DateTime CreatedOn { get; set; }
         public string LastModifiedBy { get; set; }
